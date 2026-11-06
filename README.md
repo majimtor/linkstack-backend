@@ -68,7 +68,7 @@ _Note: Ensure your MongoDB Atlas Network Access is temporarily set to allow `0.0
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/manuelalejandrojimeneztorres/linkstack-backend.git
+git clone https://github.com/majimtor/linkstack-backend.git
 cd linkstack-backend
 ```
 
@@ -128,4 +128,4 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 ## ✉️ Maintainer
 
-[**Manuel Alejandro Jiménez Torres**](https://github.com/manuelalejandrojimeneztorres)
+[**Manuel Alejandro Jiménez Torres**](https://github.com/majimtor)
